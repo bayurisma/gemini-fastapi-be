@@ -1,0 +1,39 @@
+BACKEND ENGINEER - SAMPLE JOB REQUIREMENT
+
+Company: Example Technology Labs
+Location: Jakarta / Hybrid
+Employment: Full-time
+
+ROLE SUMMARY
+We are looking for a Backend Engineer to build and maintain reliable APIs and
+backend services for our SaaS platform.
+
+REQUIRED QUALIFICATIONS
+1. At least 3 years of professional backend software development experience.
+2. Strong Python programming experience.
+3. Production experience with FastAPI or a comparable Python web framework.
+4. Strong PostgreSQL and relational database experience.
+5. Experience designing and consuming REST APIs.
+6. Experience using Docker for local development or deployment.
+7. Practical AWS experience, especially services such as EC2, S3, RDS, or Lambda.
+8. Experience writing automated tests with pytest or an equivalent framework.
+9. Good communication and ability to work with product and frontend teams.
+
+PREFERRED QUALIFICATIONS
+10. Kubernetes experience.
+11. CI/CD experience with GitHub Actions, GitLab CI, or a similar platform.
+12. Experience with Redis and asynchronous background jobs.
+13. Familiarity with observability, logging, and metrics.
+
+RESPONSIBILITIES
+- Design, implement, test, and maintain backend services.
+- Build secure and well-documented REST APIs.
+- Work with PostgreSQL and improve query performance.
+- Containerize services with Docker.
+- Collaborate with frontend engineers and product stakeholders.
+- Review code and participate in technical discussions.
+
+EVALUATION NOTES
+Candidates should be assessed based only on job-relevant evidence contained in
+the CV. Lack of evidence should not automatically be interpreted as evidence
+that a candidate does not have a skill.
